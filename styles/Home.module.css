@@ -5,10 +5,10 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-}
 
-.container a {
-  @apply bg-blue-800 bg-opacity-10;
+  a {
+    @apply bg-blue-800 bg-opacity-10;
+  }
 }
 
 .main {
